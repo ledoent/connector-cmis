@@ -6,6 +6,6 @@
         <field name="password">admin</field>
         <field
             name="location"
-        >http://localhost:8080/alfresco/api/-default-/public/cmis/versions/1.1/browser/</field>
+        >https://alfresco.hz.ledoweb.com/alfresco/api/-default-/public/cmis/versions/1.1/browser</field>
     </record>
 </odoo>
